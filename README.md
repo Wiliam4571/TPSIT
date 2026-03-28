@@ -1,4 +1,4 @@
 # TPSIT
----TPSIT-FILES---
+---TPSIT_FILES---
 
 Qui sono e stanno venendo caricati gli esercizi di TPSIT
